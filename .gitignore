@@ -4,7 +4,7 @@
 
 /node_modules
 .gitignore
-Hooks.js
+/Hooks.js
 
 
 # dependencies
