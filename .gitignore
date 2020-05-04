@@ -3,8 +3,9 @@
 #for to ignor my projects
 
 /node_modules
+/public
 .gitignore
-/Hooks.js
+Hooks.js
 
 
 # dependencies
